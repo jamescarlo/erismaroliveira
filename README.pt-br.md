@@ -1,7 +1,7 @@
 ## Olá eu sou o Erismar👋
 
 <img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/dev_productivit.svg?raw=true"
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
 	width="400px"
 	height="390px"
 	align="right"
@@ -80,7 +80,7 @@ Sou programador apaixonado pelas melhores tecnologias de desenvolvimento front-e
 </br>
 
 <img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/adornment-5.png?raw=true"
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/adornment-5.png?raw=true"
 	width="200px"
 	height="160px"
 	align="right"

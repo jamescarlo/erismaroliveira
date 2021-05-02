@@ -1,7 +1,7 @@
 ## Hi there, I'm Erismar👋
 
 <img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/dev_productivit.svg?raw=true"
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
 	width="400px"
 	height="390px"
 	align="right"
@@ -35,7 +35,7 @@ I'm a programmer, passionate about the best front-end and mobile development tec
 
 <!--
 <img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/product_iteration.svg?raw=true"
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/product_iteration.svg?raw=true"
 	width="400px"
 	height="390px"
 	align="right"
@@ -81,7 +81,7 @@ I'm a programmer, passionate about the best front-end and mobile development tec
 </br>
 
 <img
-	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/adornment-5.png?raw=true"
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/adornment-5.png?raw=true"
 	width="200px"
 	height="160px"
 	align="right"
