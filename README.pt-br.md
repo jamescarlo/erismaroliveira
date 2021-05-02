@@ -1,4 +1,4 @@
-## Hi there, I'm Erismar👋
+## Olá eu sou o Erismar👋
 
 <img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/master/ativos/dev_productivit.svg?raw=true"
@@ -21,17 +21,16 @@
 </a>
 
 
-🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/erismaroliveira/erismaroliveira/blob/master/README.pt-br.md).
+🔡 You can read about me in <b>english</b> [here](https://github.com/erismaroliveira/erismaroliveira#README).
 
-#### Follow me on [instagram](https://www.instagram.com/erismardev/) for tips and code layouts
 
-I'm a programmer, passionate about the best front-end and mobile development technologies. Fascinated by learning and JavaScript.
+Sou programador apaixonado pelas melhores tecnologias de desenvolvimento front-end e mobile. Fascinado por aprendizado e por JavaScript.
 
 ---
 
-### :computer: Technical Skills
+### :computer: Skills Técnicas
 
-####  :speech_balloon: Languages
+####  :speech_balloon: Linguagens
 
 <!--
 <img
@@ -61,7 +60,7 @@ I'm a programmer, passionate about the best front-end and mobile development tec
 </a>
 
 
-#### :wrench: Tools & Environments
+#### :wrench: Ferramentas e ambientes
 
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -87,8 +86,7 @@ I'm a programmer, passionate about the best front-end and mobile development tec
 	align="right"
 />
 
-### Phrases that I say to myself
+### Frases que digo a mim mesmo
 
- - ***If you can dream it, you can achieve it.***
- - ***Something is only impossible until it is done.***
-
+ - ***Se você pode sonhar, você pode alcançá-lo.***
+ - ***Algo só é impossível até que seja feito.***
