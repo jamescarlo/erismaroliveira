@@ -83,9 +83,9 @@ I'm a programmer, passionate about the best front-end and mobile development tec
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&locale=en" alt="erismaroliveira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erismaroliveira&show_icons=true&theme=blue-green&locale=en" alt="erismaroliveira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erismaroliveira&" alt="erismaroliveira" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erismaroliveira&theme=blue-green" alt="erismaroliveira" /></p>
 </br>
 </br>
 
