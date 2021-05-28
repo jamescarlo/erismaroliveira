@@ -27,6 +27,11 @@
 
 I'm a programmer, passionate about the best front-end and mobile development technologies. Fascinated by learning and JavaScript.
 
+![age](https://img.shields.io/badge/age-27-blue)
+![focus](https://img.shields.io/badge/focus-Front-end-brightgreen)
+![living](https://img.shields.io/badge/living-Brazil-3c9)
+![counter](https://eniu285sqwb5yaa.m.pipedream.net)
+
 ---
 
 ### :computer: Technical Skills
