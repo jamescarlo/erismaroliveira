@@ -28,7 +28,7 @@ Sou programador apaixonado pelas melhores tecnologias de desenvolvimento front-e
 
 ![age](https://img.shields.io/badge/idade-27-blue)
 ![focus](https://img.shields.io/badge/foco-FullStack-brightgreen)
-![living](https://img.shields.io/badge/país-Brazil-3c9)
+![living](https://img.shields.io/badge/país-Brasil-3c9)
 
 ---
 
