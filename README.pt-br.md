@@ -26,6 +26,11 @@
 
 Sou programador apaixonado pelas melhores tecnologias de desenvolvimento front-end e mobile. Fascinado por aprendizado e por JavaScript.
 
+![age](https://img.shields.io/badge/idade-27-blue)
+![focus](https://img.shields.io/badge/foco-FullStack-brightgreen)
+![living](https://img.shields.io/badge/país-Brazil-3c9)
+![counter](https://visitor-badge.laobi.icu/badge?page_id=erismaroliveira.visitantes-badge)
+
 ---
 
 ### :computer: Skills Técnicas
