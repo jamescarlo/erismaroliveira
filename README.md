@@ -30,7 +30,6 @@ I'm a programmer, passionate about the best front-end and mobile development tec
 ![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/country-Brazil-3c9)
-![counter](https://visitor-badge.laobi.icu/badge?page_id=erismaroliveira.visitor-badge)
 
 ---
 
